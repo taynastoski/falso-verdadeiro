@@ -3,4 +3,7 @@ let dado = 100;
 console.log("Valor", dado);
 console.log("Tipo", typeof dado);
 
-//
+//Mudando o tipo da mesma variavel (o que define a tipagem dinamica)
+dado ="Olá, sou um texto";
+console.log("Novo valor", dado);
+console.log("Novo tipo", typeof dado);
