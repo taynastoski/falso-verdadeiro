@@ -34,7 +34,7 @@
 
 // //DESAFIO
 
-function multiplicar(4, 5) {
+function multiplicar(x, y) {
     return 4 * 5;
 }
 
