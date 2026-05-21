@@ -26,4 +26,8 @@ function calcularSoma("num1, num2") {
 //2) Executando e mstrando o resultado direto no console
 console.log("Exemplo 2 -> O resultado da soma de 5 + 3 é: " calcularSoma(5, 3));
 
-//3)
+//3) Executando e guradando o resultado em uma variável para usar depois
+let meuResultado = calcularSoma(10, 20);
+console.log("Exemplo 2 -> O resultado guardado na variável é: " + meuResultado);
+console.log(""),
+console.log("---Fim dos exemplos---");
